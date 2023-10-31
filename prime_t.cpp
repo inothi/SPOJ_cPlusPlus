@@ -1,3 +1,7 @@
+//###################//
+//## NOT COMPLETED ##//
+//###################//
+
 #include <iostream>
 
 using namespace std;
@@ -17,6 +21,10 @@ int main()
             i++; //if condition fulfilled, increment
         }
     }
+
+//###################//
+//## NOT COMPLETED ##//
+//###################//
 
     delete [] jakieLiczby; //delete array from memory
 
