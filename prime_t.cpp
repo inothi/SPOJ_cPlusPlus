@@ -3,7 +3,6 @@
 //###################//
 
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -21,12 +20,10 @@ int main()
             i++; //if condition fulfilled, increment
         }
     }
+    delete [] jakieLiczby; //delete array from memory
+    return 0;
+}
 
 //###################//
 //## NOT COMPLETED ##//
 //###################//
-
-    delete [] jakieLiczby; //delete array from memory
-
-    return 0;
-}
