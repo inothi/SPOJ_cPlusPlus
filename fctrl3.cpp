@@ -62,6 +62,7 @@ int main()
             }
         }
     }
+    delete [] przypadki;
     return 0;
 }
 
