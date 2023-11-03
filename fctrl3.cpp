@@ -1,3 +1,13 @@
+/*
+
+https://pl.spoj.com/problems/FCTRL3
+
+###################
+#### COMPLETED ####
+###################
+
+*/
+
 #include <iostream>
 
 using namespace std;
@@ -54,3 +64,11 @@ int main()
     }
     return 0;
 }
+
+/*
+
+###################
+#### COMPLETED ####
+###################
+
+*/
