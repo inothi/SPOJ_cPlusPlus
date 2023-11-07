@@ -1,5 +1,7 @@
 /*
 
+https://pl.spoj.com/problems/FLAMAST
+
 ###################
 ## NOT COMPLETED ##
 ###################
