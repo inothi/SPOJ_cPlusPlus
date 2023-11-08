@@ -3,7 +3,7 @@
 https://pl.spoj.com/problems/FLAMAST
 
 ###################
-## NOT COMPLETED ##
+#### COMPLETED ####
 ###################
 
 */
@@ -16,13 +16,7 @@ using namespace std;
 int main()
 {
     int ilosc_wyrazow;
-    cout << "Podaj ilosc wyrazow (od 1 do 50): ";
     cin >> ilosc_wyrazow;
-    while ((ilosc_wyrazow > 50) || (ilosc_wyrazow < 1))
-    {
-        cout << "Podaj poprawna ilosc wyrazow od 1 do 50: ";
-        cin >> ilosc_wyrazow;
-    }
 
     for (int i = 0; i < ilosc_wyrazow; i++)
     {
@@ -69,7 +63,7 @@ int main()
 /*
 
 ###################
-## NOT COMPLETED ##
+#### COMPLETED ####
 ###################
 
 */
